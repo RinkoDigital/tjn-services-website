@@ -160,6 +160,11 @@
       "image": "assets/gallery/interior-02.jpg",
       "featured": false,
       "category": "Interior Remodeling"
+    },
+    {
+      "featured": false,
+      "image": "/assets/gallery/de.jpg",
+      "title": "kit"
     }
   ]
 }
