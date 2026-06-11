@@ -1,0 +1,165 @@
+{
+  "intro": {
+    "eyebrow": "Selected Projects",
+    "title": "Real finishes. Real homes. Real detail.",
+    "description": "A curated gallery of TJN Services LLC projects across exterior remodeling, additions, decks, kitchens, bathrooms, flooring, drywall and interior finish work."
+  },
+  "photos": [
+    {
+      "title": "Complete Home Remodel",
+      "image": "assets/gallery/exterior-complete-1.jpg",
+      "featured": true,
+      "category": "Complete Home Remodel"
+    },
+    {
+      "title": "Complete Home Remodel",
+      "image": "assets/gallery/exterior-complete-2.jpg",
+      "featured": false,
+      "category": "Complete Home Remodel"
+    },
+    {
+      "title": "Complete Home Remodel",
+      "image": "assets/gallery/complete-03.jpg",
+      "featured": false,
+      "category": "Complete Home Remodel"
+    },
+    {
+      "title": "Complete Home Remodel",
+      "image": "assets/gallery/complete-04.jpg",
+      "featured": false,
+      "category": "Complete Home Remodel"
+    },
+    {
+      "title": "Kitchen Remodeling",
+      "image": "assets/gallery/kitchen-01.jpg",
+      "featured": false,
+      "category": "Kitchen Remodeling"
+    },
+    {
+      "title": "Kitchen Remodeling",
+      "image": "assets/gallery/kitchen-02.jpg",
+      "featured": false,
+      "category": "Kitchen Remodeling"
+    },
+    {
+      "title": "Kitchen Remodeling",
+      "image": "assets/gallery/kitchen-03.jpg",
+      "featured": false,
+      "category": "Kitchen Remodeling"
+    },
+    {
+      "title": "Kitchen Remodeling",
+      "image": "assets/gallery/kitchen-04.jpg",
+      "featured": false,
+      "category": "Kitchen Remodeling"
+    },
+    {
+      "title": "Kitchen Remodeling",
+      "image": "assets/gallery/kitchen-05.jpg",
+      "featured": false,
+      "category": "Kitchen Remodeling"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "image": "assets/gallery/bathroom-04.jpg",
+      "featured": false,
+      "category": "Bathroom Remodeling"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "image": "assets/gallery/bathroom-05.jpg",
+      "featured": false,
+      "category": "Bathroom Remodeling"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "image": "assets/gallery/bathroom-06.jpg",
+      "featured": false,
+      "category": "Bathroom Remodeling"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "image": "assets/gallery/bathroom-07.jpg",
+      "featured": false,
+      "category": "Bathroom Remodeling"
+    },
+    {
+      "title": "Bathroom Remodeling",
+      "image": "assets/gallery/bathroom-08.jpg",
+      "featured": false,
+      "category": "Bathroom Remodeling"
+    },
+    {
+      "title": "Tile Installation",
+      "image": "assets/gallery/tile-01.jpg",
+      "featured": false,
+      "category": "Tile Installation"
+    },
+    {
+      "title": "Tile Installation",
+      "image": "assets/gallery/tile-02.jpg",
+      "featured": false,
+      "category": "Tile Installation"
+    },
+    {
+      "title": "Tile Installation",
+      "image": "assets/gallery/tile-03.jpg",
+      "featured": false,
+      "category": "Tile Installation"
+    },
+    {
+      "title": "Tile Installation",
+      "image": "assets/gallery/tile-04.jpg",
+      "featured": false,
+      "category": "Tile Installation"
+    },
+    {
+      "title": "Flooring Installation",
+      "image": "assets/gallery/flooring-07.jpg",
+      "featured": false,
+      "category": "Flooring Installation"
+    },
+    {
+      "title": "Flooring Installation",
+      "image": "assets/gallery/flooring-08.jpg",
+      "featured": false,
+      "category": "Flooring Installation"
+    },
+    {
+      "title": "Flooring Installation",
+      "image": "assets/gallery/flooring-09.jpg",
+      "featured": false,
+      "category": "Flooring Installation"
+    },
+    {
+      "title": "Flooring Installation",
+      "image": "assets/gallery/flooring-10.jpg",
+      "featured": false,
+      "category": "Flooring Installation"
+    },
+    {
+      "title": "Drywall Installation &amp; Repair",
+      "image": "assets/gallery/drywall-10.jpg",
+      "featured": false,
+      "category": "Drywall Installation &amp; Repair"
+    },
+    {
+      "title": "Drywall Installation &amp; Repair",
+      "image": "assets/gallery/drywall-11.jpg",
+      "featured": false,
+      "category": "Drywall Installation &amp; Repair"
+    },
+    {
+      "title": "Interior Remodeling",
+      "image": "assets/gallery/interior-01.jpg",
+      "featured": false,
+      "category": "Interior Remodeling"
+    },
+    {
+      "title": "Interior Remodeling",
+      "image": "assets/gallery/interior-02.jpg",
+      "featured": false,
+      "category": "Interior Remodeling"
+    }
+  ]
+}

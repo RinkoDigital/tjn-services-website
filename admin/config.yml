@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/gallery"
+public_folder: "/assets/gallery"
+
+collections:
+  - name: "site_content"
+    label: "Site Content"
+    files:
+      - name: "gallery"
+        label: "Project Gallery"
+        file: "content/gallery.json"
+        format: "json"
+        fields:
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            fields:
+              - { label: "Eyebrow", name: "eyebrow", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
+          - label: "Photos"
+            name: "photos"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Featured Large Image", name: "featured", widget: "boolean", default: false, required: false }
+              - { label: "Category", name: "category", widget: "string", required: false }

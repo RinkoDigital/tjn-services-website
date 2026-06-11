@@ -1,0 +1,4 @@
+Index project showcase updated with 5 different photos including deck/exterior finish.
+Kitchen horizontal photo removed from index.
+Gallery cleaned to reduce repeated photos and improve image framing.
+Home project files: assets/gallery/home-exterior-remodel.jpg, home-addition.jpg, home-deck.jpg, home-bathroom.jpg, home-flooring.jpg.

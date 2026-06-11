@@ -1,0 +1,1 @@
+Gallery standardized: first image is large, all other images are same size, visual titles/captions are hidden.

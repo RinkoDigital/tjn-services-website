@@ -1,0 +1,24 @@
+TJN Services LLC - Decap CMS Gallery Setup
+
+This site now includes Decap CMS for editing the gallery.
+
+Files added:
+- /admin/index.html
+- /admin/config.yml
+- /content/gallery.json
+- netlify.toml
+
+How to activate on Netlify:
+1. Upload/push this project to GitHub.
+2. Import the GitHub repository into Netlify.
+3. In Netlify, go to Identity and click Enable Identity.
+4. Go to Identity > Services and enable Git Gateway.
+5. Go to Identity > Invite users and invite your email.
+6. Open https://YOUR-SITE.netlify.app/admin
+7. Login and edit Project Gallery.
+
+Important:
+- The Gallery page loads photos from content/gallery.json.
+- New uploaded images are saved in assets/gallery.
+- The first photo marked as Featured Large Image becomes the large photo.
+- If no photo is marked featured, the first photo becomes large automatically.

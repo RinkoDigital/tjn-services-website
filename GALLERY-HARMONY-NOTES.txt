@@ -1,0 +1,3 @@
+Gallery fixed to match the index visual composition.
+Index was preserved.
+Gallery now uses one main project image plus balanced supporting images.

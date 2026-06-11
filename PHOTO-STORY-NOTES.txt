@@ -1,0 +1,3 @@
+Gallery updated to a storytelling before/progress/after layout.
+Selected images copied from selecao-final.zip into assets/gallery/story-XX files.
+Images use object-fit: contain to avoid awkward cropping.

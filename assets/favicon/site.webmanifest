@@ -1,0 +1,11 @@
+{
+  "name": "TJN Services LLC",
+  "short_name": "TJN Services",
+  "icons": [
+    { "src": "/assets/favicon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/favicon/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#1f1e25",
+  "background_color": "#1f1e25",
+  "display": "standalone"
+}
