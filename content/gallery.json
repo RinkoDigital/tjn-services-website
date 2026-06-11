@@ -165,6 +165,11 @@
       "featured": false,
       "image": "/assets/gallery/de.jpg",
       "title": "kit"
+    },
+    {
+      "featured": false,
+      "image": "/assets/gallery/chatgpt-image-10-de-jun.-de-2026-13_27_03.png",
+      "title": "labt"
     }
   ]
 }
